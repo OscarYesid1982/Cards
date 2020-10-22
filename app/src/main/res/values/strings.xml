@@ -1,0 +1,51 @@
+<!--
+  Copyright 2016 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">C4U1L1E2.Cards</string>
+    <string name="title_placeholder">Titulo</string>
+    <string name="news_label">Noticias</string>
+    <string name="sports_info_placeholder">¡Aquí hay algunas noticias!</string>
+    <string name="sports_image">Sports Image</string>
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+        massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+        molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+        posuere, bibendum id lorem.</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>¡Aquí hay algunas noticias de Béisbol!</item>
+        <item>¡Aquí hay algunas noticias de Badminton!</item>
+        <item>¡Aquí hay algunas noticias de Basketball!</item>
+        <item>¡Aquí hay algunas noticias de Bowling!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+    </array>
+
+</resources>
